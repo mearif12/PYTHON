@@ -39,3 +39,17 @@ my_car = Car("BMW","Red")
 print(f"My car is {my_car.name} and color is {my_car.color}")
 my_car.start()
 my_car.engine()
+
+
+#3
+class Animal:
+    def speak(self):
+        print("Animal speaks")
+
+class Dog(Animal):
+    def speak(self):
+        super().speak()  # Calls the speak method from Animal class
+        print("Dog barks")
+
+dog = Dog()
+dog.speak()
