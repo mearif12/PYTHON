@@ -1,5 +1,73 @@
 # PYTHON DOCUMENTATION
 
+## Table of Contents :
+
+1. [Python](#python-documentation)
+
+
+   [1.1 Output](#1output--data-types)
+
+   [1.2 Operators](#2operators)
+
+   [1.3 Type Conversion](#3type-conversion)
+
+   [1.4 More on Operators](#4comparison-and-logical-operator)
+
+   [1.5 Looping](#5looping)
+
+   [1.6 Password Checker](#6password-checker)
+
+   [1.7 Control Statement](#7ifelse-statement)
+
+   [1.8 List](#8list)
+
+   [1.9 List Methods](#9list-slicing-methods)
+
+   [1.10 List Iteration](#10list-iteration)
+
+   [1.11 Nested for](#11nested-for-loop)
+
+   [1.12 Iteration and Selection](#12iterations--selections)
+
+   [1.13 Break and Continue](#13break--continue)
+
+   [1.14 Built in Functions](#14built-in-functions)
+
+   [1.15 User defined Functions](#15user-defined-functions)
+
+   [1.16 Functions with Lists](#16functions-with-lists)
+
+   [1.17 Tuple](#17tuple)
+
+   [1.18 Set](#18set)
+
+   [1.19 Dictionaries](#19dictionaries)
+
+   [1.20 List Comprehensions](#20list-comprehensions)
+
+   [1.21 Exception Handling](#21exception-handling)
+
+   [1.22 Functional Programming](#22functional-programming)
+
+   [1.23 Lambda Expressions](#23lambda-expressions)
+
+   [1.24 Map and Filter](#24map--filter)
+
+   [1.25 *args and **kwargs](#25args--kwargs)
+
+   [1.26 Decorators](#26decorators)
+
+   [1.27 OOP ~ Inheritance](#27oop--inheritance)
+
+   [1.28 OOP ~ Data-Hiding](#28oop--data-hiding)
+
+   [1.29 OOP ~ Class and Static Methods](#29oop--class-and-static-methods)
+
+   [1.30 File Handling](#30file-handling)
+
+2. [PHP](#php-documentation)   
+
+
 #### 1.Output & data types:
 
 ```
