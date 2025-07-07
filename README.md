@@ -61,7 +61,7 @@
 
    [1.28 OOP ~ Data-Hiding](#28oop--data-hiding)
 
-   [1.29 OOP ~ Class and Static Methods](#29oop--class-and-static-methods)
+   [1.29 OOP ~ Class and Static Methods](#29oop--class--static-methods)
 
    [1.30 File Handling](#30file-handling)
 
